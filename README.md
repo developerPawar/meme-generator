@@ -1,3 +1,4 @@
+This is a Meme Generator Project, which is implemented using the React concepts - Event Listeners , useState, Conditional Rendering, Forms, Side effects [useEffect()]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
